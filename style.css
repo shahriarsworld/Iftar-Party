@@ -52,3 +52,23 @@ header p{
     margin: 10px 0;
     text-align: center;
 }
+
+#invitation {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#inviteButton {
+    padding: 10px 20px;
+    font-size: 1.2em;
+    color: white;
+    background-color: #ff5733;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#inviteButton:hover {
+    background-color: #531c0f;
+}
