@@ -28,3 +28,11 @@ header h1{
 header p{
     font-size: 1.2em;
 }
+
+#menu{
+    margin-top: 30px;
+    padding: 20px;
+    background-color: rgb(241, 255, 222);
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
